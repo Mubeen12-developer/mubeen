@@ -542,9 +542,9 @@ hr {
 
 .cont-08-image {
     margin-left: 150px;
-    width: 80%;
+    width: 50%;
     height: 450px;
-    background-image: url("./images/peter-olexa-pL7IreX9AGY-unsplash\ 10.png");
+    background-image: url("./image/image\ 1.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -579,7 +579,7 @@ hr {
 
 .cont-child-dv-02 {
     border-radius: 15px;
-    background-image: url("./images/peter-olexa-pL7IreX9AGY-unsplash\ 11.png");
+    background-image: url("./image/peter-olexa-pL7IreX9AGY-unsplash\ 11.png");
     width: 21%;
     height: 350px;
 }
@@ -590,11 +590,11 @@ hr {
 }
 
 .cont-child-dv-03 {
-    background-image: url("./images/peter-olexa-pL7IreX9AGY-unsplash\ 8.png");
+    background-image: url("./image/peter-olexa-pL7IreX9AGY-unsplash\ 8\ \(1\).png");
     margin-top: 100px;
     border-radius: 15px;
     width: 25%;
-    height: 520px;
+    height: 720px;
     object-fit: cover;
     background-repeat: no-repeat;
 }
@@ -628,7 +628,8 @@ hr {
 .cont-10-child-01 {
     margin-left: 150px;
     border-radius: 15px;
-    background-image: url("./images/peter-olexa-pL7IreX9AGY-unsplash\ 86.png");
+    background-image: url("./image/image\ 2.png");
+    background-color: url("./image/image\ 2.png");
     width: 18%;
     height: 300px;
 }
@@ -786,9 +787,10 @@ hr {
     flex-direction: column;
     display: flex;
     width: 100%;
-    height: 800px;
+    height: 400px;
     background-repeat: no-repeat;
-    background-image: url(./images/Body.png);
+    background-image: url(./image/Body.png);
+    margin-left: 30%;
 }
 
 .arrow-12 {
